@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "231891581558-46k86umve8isv4u5ld44gftqohcpok4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.InsaneSamurai.Android",
+            "certificate_hash": "5c0c64c78eeb1863de6115b209ebb1582073fa57"
+          }
+        },
+        {
           "client_id": "231891581558-ssdjtdn2oh1nt84u5s576rjdj75sv1qb.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231891581558-ssdjtdn2oh1nt84u5s576rjdj75sv1qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
